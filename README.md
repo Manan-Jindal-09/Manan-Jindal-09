@@ -61,7 +61,6 @@ I enjoy working on **AI-powered applications, full-stack development, and automa
 </a>
 
 <a href="mailto:mananjindal09@gmail.com">
-<img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
 
